@@ -1,4 +1,4 @@
-const botoes = document.querySelectorAll (".botoao"):
+const botoes = document.querySelectorAll (".botoao");
 
 for (let i = 0; i <botoes.length; i++){
     botoes [i].onclick = function (){
